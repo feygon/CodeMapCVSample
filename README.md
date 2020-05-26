@@ -5,4 +5,4 @@ Contained in the zip file, please find a code sample of an preprocess program wh
 
 You will find that it builds, and is well documented, but that it does not yet output an xml file, as of 5/14/2020, because the ADO.net calls have not yet been input to accomplish the document cross-indexing.
 
-The code map demonstrates strong command of inheritance from virtual classes and a sensible use of interfaces.
+The code map demonstrates strong command of inheritance from virtual classes and a sensible use of interfaces, as well as thorough XML summary documentation.
